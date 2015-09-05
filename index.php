@@ -25,7 +25,7 @@ if($_POST["submit"]) {
 
     <?=$thankYou ?>
 
-    <form method="post" action="contact.php">
+    <form method="post" action="index.php">
         <label>Email:</label>
         <input name="email">
 
